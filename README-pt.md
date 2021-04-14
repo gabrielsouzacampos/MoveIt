@@ -76,6 +76,18 @@ Os seguintes softwares devem estar instalados:
   $ git clone https://github.com/GabrielSouzaCampos/MoveIt.git
 ```
 
+### :arrow_forward:	**Rodando as aplicações**
+
+- :computer: Web app
+
+```sh
+  $ cd web
+  # Dependencies install.
+  $ yarn # or npm install
+  # Running web app
+  $ yarn dev # or npm dev
+```
+
 <br>
 
 ## :memo: Licença
