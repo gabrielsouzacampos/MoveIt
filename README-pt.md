@@ -76,6 +76,9 @@ Os seguintes softwares devem estar instalados:
   $ git clone https://github.com/GabrielSouzaCampos/MoveIt.git
 ```
 
+<br>
+
+
 ### :arrow_forward:	**Rodando as aplicações**
 
 - :computer: Web app
